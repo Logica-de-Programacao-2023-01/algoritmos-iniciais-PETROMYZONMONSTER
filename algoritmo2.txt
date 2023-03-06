@@ -1,4 +1,6 @@
 Algoritmo de conversão de temperatura: um algoritmo que converte uma 
-temperatura em Celsius para Fahrenheit ou vice-versa. 1 - entrada valor 
-da temperatura 2 - se celsius (var X) , converter para fahrenheit (var 
-Y) 3- senao; converter para celsius 4 - saida X/5 = (y - 32)/9
+temperatura em Celsius para Fahrenheit ou vice-versa. 
+1 - entrada: valor da temperatura 
+2 - se celsius (var X) , converter para fahrenheit (var Y) 
+3- senao; converter para celsius 
+4 - saida X/5 = (y - 32)/9
