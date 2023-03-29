@@ -1,0 +1,5 @@
+1- Ler Capital
+2- Ler Juros
+3- Ler Tempo
+4- Para os números entre 1 e Tempo, faça:
+5- resultado = capital*juros
