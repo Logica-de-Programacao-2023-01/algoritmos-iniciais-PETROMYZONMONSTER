@@ -1,0 +1,5 @@
+1- Ler X
+2- Para números entre 2 e x-1:
+3- se X dividido por estes números é 0 
+4- então escreva não é primo
+5- senão: é primo
