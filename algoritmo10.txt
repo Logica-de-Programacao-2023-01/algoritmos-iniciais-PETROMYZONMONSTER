@@ -1,0 +1,10 @@
+1- Ler numeros
+2- Ler pesos
+3- Var soma = 0
+4- Var soma_pesos = 0
+5- Para cada elemento em numeros, faça:
+6- Soma = soma+(elemento+peso_correspondente)
+7- Para cada elemento em pesos, faça:
+8- Soma_pesos = soma_pesos+elemento
+9- Resultado = soma/soma_pesos
+10- Escreva Resultado
