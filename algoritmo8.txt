@@ -1,0 +1,4 @@
+1- Ler Base
+2- Ler Altura
+3- Resultado = (basealtura)/2
+4- Escreva Resultado
