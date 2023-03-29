@@ -1,0 +1,5 @@
+1- Ler X
+2- Ler Y
+3- Var X = Resultado
+4- Para 1 ate Y faça: Resultado = Resultadox
+5- Escreva Resultado
